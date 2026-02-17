@@ -24,10 +24,12 @@ Bu proje, farklı oyun türlerine uyarlanabilecek şekilde tasarlanmış, modül
 
 Bu yapı sayesinde oyunun akışını tamamen ihtiyacınıza göre şekillendirebilirsiniz.
 
-## UI Tasarımları
+## ⚡UI Tasarımları
 
 En üst Panel Oyunumuzda Geçirdiğimiz zamanı veya tercih olarak gerçek zamanı gösterebilen bir özelliğe sahiptir. 
+
 Sol Tarafındaki Buton Ayarlar Menüsünü Açar.
+
 Sağ Taraftaki buton ise Ekranda ki mevcut kartı indirir. 
 
 Son olarakta da Ortada Kartlarımız bulunur.
@@ -54,7 +56,7 @@ Assets/ Prefabs/ [SahneAdı]/ İlgili Kart Prefab’ları
 
 Klasör isimleri sahne isimleriyle birebir uyumludur. Bu sayede hangi prefab’ın hangi sahneye ait olduğunu kolayca yönetebilirsiniz.
 
-## Özelleştirme
+## ✒️ Özelleştirme
 
 Kart içerikleri ve mekanikleri genişletilebilir yapıdadır.
 Yeni kart türleri kolayca eklenebilir.
