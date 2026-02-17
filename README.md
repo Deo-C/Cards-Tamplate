@@ -26,10 +26,9 @@ Bu yapı sayesinde oyunun akışını tamamen ihtiyacınıza göre şekillendire
 
 ## UI Tasarımları
 
-
--En üst Panel Oyunumuzda Geçirdiğimiz zamanı veya tercih olarak gerçek zamanı gösterebilen bir özelliğe sahiptir. 
--Sol Tarafındaki Buton Ayarlar Menüsünü Açar.
--Sağ Taraftaki buton ise Ekranda ki mevcut kartı indirir. 
+En üst Panel Oyunumuzda Geçirdiğimiz zamanı veya tercih olarak gerçek zamanı gösterebilen bir özelliğe sahiptir. 
+Sol Tarafındaki Buton Ayarlar Menüsünü Açar.
+Sağ Taraftaki buton ise Ekranda ki mevcut kartı indirir. 
 
 Son olarakta da Ortada Kartlarımız bulunur.
 
