@@ -2,7 +2,7 @@
 
 Bu proje, farklı oyun türlerine uyarlanabilecek şekilde tasarlanmış, modüler ve genişletilebilir bir hazır oyun şablonudur. Hem hikâye tabanlı bir deneyim hem de klasik bir kutu oyunu mantığında kullanılabilecek esnek bir altyapı sunar.
 
-## İçerik
+## 🛠️ İçerik
 
 Şablon aşağıdaki temel sistemleri içerir:
 
