@@ -4,6 +4,8 @@ Bu proje, farklı oyun türlerine uyarlanabilecek şekilde tasarlanmış, modül
 
 ## 🛠️ İçerik
 
+<img src="Cards-Tamplate\Orther\Ekran görüntüsü 2026-02-16 225808.png" width="300"/>
+
 Şablon aşağıdaki temel sistemleri içerir:
 
 - Başlangıç Kartları
