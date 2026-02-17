@@ -4,9 +4,7 @@ Bu proje, farklı oyun türlerine uyarlanabilecek şekilde tasarlanmış, modül
 
 ## 🛠️ İçerik
 
-<p align="right">
-  <img src="Orther/Screen1.png" width="300"/>
-</p>
+<img src="Orther/Screen1.png" align="right" width="300"/>
 
 Şablon aşağıdaki temel sistemleri içerir:
 
