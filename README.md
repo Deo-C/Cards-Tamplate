@@ -40,10 +40,7 @@ Projede, kullanım kolaylığı sağlamak amacıyla birden fazla sahne tasarlanm
 
 Her sahneye ait kart prefab’ları:
 
-Prefabs/
- └── [SahneAdı]/
-      └── İlgili Kart Prefab’ları
-
+Assets/ Prefabs/ [SahneAdı]/ İlgili Kart Prefab’ları
 
 Klasör isimleri sahne isimleriyle birebir uyumludur. Bu sayede hangi prefab’ın hangi sahneye ait olduğunu kolayca yönetebilirsiniz.
 
