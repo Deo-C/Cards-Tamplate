@@ -4,7 +4,7 @@ Bu proje, farklı oyun türlerine uyarlanabilecek şekilde tasarlanmış, modül
 
 ## 🛠️ İçerik
 
-<img src="Cards-Tamplate\Orther\Screen1.png" width="300"/>
+<img src="Cards-Tamplate/Orther/Screen1.png" align="right" width="300"/>
 
 Şablon aşağıdaki temel sistemleri içerir:
 
